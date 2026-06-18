@@ -1,7 +1,10 @@
-hand_mouse_system/
-│
-├── main.py
-├── hand_tracking_module.py
-├── mouse_controller.py
-├── requirements.txt
-└── README.md
+# Hand Mouse System (Python + ML)
+
+## Features
+- Move mouse using index finger
+- Click using pinch gesture (index + middle finger)
+- Real-time hand tracking using MediaPipe
+
+## Setup
+
+### Install dependencies:
